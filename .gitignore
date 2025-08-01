@@ -1,0 +1,8 @@
+# Ignore folders
+.gemini/
+target/
+
+# Ignore files
+execute-query.txt
+get-query.txt
+*.md
